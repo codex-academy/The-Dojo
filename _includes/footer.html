@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <nav class="main-nav" id="menu">
+    <ol>
+      {% assign currentpage = page.url %}
+      {% for post in site.posts reversed %}
+        {% unless post.url contains ".css" %}
+          <li>
+            <a href="{{ post.url }}" {% if currentpage == post.url %}class = "active"{% endif %}>{{ post.title }}</a>
+          </li>
+        {% endunless %}
+      {% endfor %}
+    </ol>
+  </nav>
+</footer>

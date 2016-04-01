@@ -5,7 +5,6 @@ layout: default
 # Words and numbers
 
 Write a function:
-
     * that can find all the numbers in a sentence;
     * that find all words shorter than 3 in a sentence;
     * that count all the words in a sentence;

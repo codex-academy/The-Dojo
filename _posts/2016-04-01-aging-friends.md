@@ -10,4 +10,6 @@ Write a function to tell me which of my friend's is the oldest?
 
 By the way which of me friends are younger than Ellie?
 
-Other friends said they will send you their list of friends as well... so make sure you function will work for that too.
+Other friends said they will send you their list of friends as well... so make sure you function will work for that too. Like this:
+
+`Theo is 42, Nhlanhla is 36, Hugh is 77`

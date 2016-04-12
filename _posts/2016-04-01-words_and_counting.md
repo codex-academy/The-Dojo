@@ -16,4 +16,6 @@ Use this sentence to test:
 
 `I saw 3 bears, and 7 toads in 50 meters from the tallest tree in the park.`
 
-But use other sentences to test it as well.
+But use other sentences to test it as well, like:
+
+`I saw 5 fish and 8 squid in 100 meters from the biggest boat in the sea.`

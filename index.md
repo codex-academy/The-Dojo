@@ -5,6 +5,6 @@ title: index
 
 # The dojo
 
-A site of code kata's.
+A site of code katas.
 
-Do'em all! :)
+Do 'em all! :)

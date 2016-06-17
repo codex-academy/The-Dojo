@@ -18,4 +18,4 @@ Use this sentence to test:
 
 But use other sentences to test it as well, like:
 
-`I saw 5 fish and 8 squid in 100 meters from the biggest boat in the sea.`
+`I saw 5 fish, and 8 squid in 100 meters from the biggest boat in the sea.`

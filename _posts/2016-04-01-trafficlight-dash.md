@@ -12,4 +12,4 @@ How many lights were orange?
 
 Make sure this function work for other journeys too, like:
 
-`There are 12 traffic lights on my way home (I take a different route). I went through 2 orange ones, and 8 green ones.`
+`There are 12 traffic lights on my way home (I take a different route). On the way 2 were orange, and 8 were green.`

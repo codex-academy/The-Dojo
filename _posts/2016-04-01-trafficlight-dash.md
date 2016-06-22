@@ -10,4 +10,6 @@ Write a function that can answer the questions at the bottom of the page by pars
 
 * How many lights were orange?
 
-Make sure your function works for other journeys too!
+Make sure this function work for other journeys too, like:
+
+`There are 12 traffic lights on my way home (I take a different route). On the way 2 were orange, and 8 were green.`
